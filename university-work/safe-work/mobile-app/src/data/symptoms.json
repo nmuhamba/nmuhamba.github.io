@@ -1,0 +1,20 @@
+{
+    "General Symptoms": [
+        "Do you have a fever/chills?",
+        "Are you experiencing a persistent cough?",
+        "Do you have nasal congestion or a runny nose?",
+        "Are you experiencing shortness of breath or difficulty breathing?",
+        "Are you feeling unusually tired or fatigued?",
+        "Have you recently lost your sense of taste or smell?",
+        "Have you been in close contact with anyone who has tested positive for a contagious illness in the past 7 days?"
+    ],
+    "Additional Symptoms": [
+        "Do you have a headache?",
+        "Do you have a sore throat?",
+        "Are you experiencing muscle pain or body aches?"
+    ],
+    "Digestive Symptoms": [
+        "Are you experiencing diarrhea?",
+        "Are you experiencing nausea?"
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How do I complete my daily health check?",
+        "answer": "You are able to complete the health check by visiting the main page and clicking on the health check button. This will take you to the health check form."
+    },
+    {
+        "question": "How do I know if I'm clear to work?",
+        "answer": "Once you complete the health check, you will receive a notification indicating whether you are clear to work or if further action is needed."
+    },
+    {
+        "question": "How can I view the latest policy updates?",
+        "answer": "You can view the latest policy updates by going to the home page and viewing the latest updates section."
+    },
+    {
+        "question": "Will I get notified of new health alerts?",
+        "answer": "Yes, you will receive notifications for new health alerts or updates relevant to your workplace."
+    },
+    {
+        "question": "How do I contact support if I need help?",
+        "answer": "If you have any questions or issues, please fill out the contact form on the website, and our support team will get back to you as soon as possible."
+    }
+]

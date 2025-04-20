@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "title": "Remote Work Policy Refreshed",
+        "description": "Employees may work remotely up to 3 days per week under the revised hybrid model.",
+        "date": "2025-04-10",
+        "category": "General",
+        "furtherDetail": "Employees are encouraged to work remotely up to 3 days per week if their role allows. Weekly virtual check-ins with managers are mandatory to maintain alignment and productivity."
+    },
+    {
+        "id": "2",
+        "title": "New Health & Safety Policy",
+        "description": "Updated policy including mandatory symptom checks before entering the office.",
+        "date": "2025-04-06",
+        "category": "Policy Updates",
+        "furtherDetail": "All employees must complete a digital health check each morning before arriving at the office. If symptoms are reported, clearance will not be granted, and employees must work remotely and notify HR."
+    },
+    {
+        "id": "3",
+        "title": "Fitness to Work Policy",
+        "description": "Understand the requirements for being fit to work.",
+        "date": "2025-04-06",
+        "category": "Policy Updates",
+        "furtherDetail": "Employees must complete a daily health check before entering the workplace. If you experience symptoms such as fever, cough, or fatigue, please stay home and notify your manager immediately."
+    },
+    {
+        "id": "4",
+        "title": "Confidentiality Policy",
+        "description": "Updated policy regarding handling sensitive health information.",
+        "date": "2025-04-06",
+        "category": "Policy Updates",
+        "furtherDetail": "Any health-related data submitted via the SafeWork app will be handled in compliance with GDPR and company confidentiality protocols. Data is only accessible by authorized HR personnel."
+    },
+    {
+        "id": "5",
+        "title": "COVID-19 Case Reported",
+        "description": "A confirmed case was identified on the 4th floor. Follow guidance from HR.",
+        "date": "2025-04-06",
+        "category": "Urgent",
+        "furtherDetail": "A positive COVID-19 case was confirmed on the 4th floor. The area has been sealed off for cleaning. Anyone who was on that floor in the last 48 hours should monitor symptoms and await contact from HR for next steps."
+    },
+    {
+        "id": "6",
+        "title": "Mask Guidance Updated",
+        "description": "Masks are now optional in all common areas but still required around desks.",
+        "date": "2025-04-06",
+        "category": "General",
+        "furtherDetail": "Masks are no longer required in hallways, kitchens, and meeting rooms. However, employees must continue to wear masks when seated at or walking around their desk areas."
+    },
+    {
+        "id": "7",
+        "title": "Daily Health Check Reminder",
+        "description": "Please complete the daily health check before coming into the office.",
+        "date": "2025-04-06",
+        "category": "General",
+        "furtherDetail": "All employees are expected to complete the daily symptom checker on the SafeWork app before reporting to work. This ensures a safe environment for everyone."
+    },
+    {
+        "id": "8",
+        "title": "Floor 3 Closure Tomorrow",
+        "description": "Due to a suspected contamination, floor 3 will be closed tomorrow for deep sanitization. All teams to work from home.",
+        "date": "2025-04-06",
+        "category": "Urgent",
+        "furtherDetail": "Following a suspected contamination, floor 3 will be inaccessible for 24 hours. Sanitization crews will perform deep cleaning. Impacted teams must work remotely and await clearance to return."
+    }
+]
